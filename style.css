@@ -1,0 +1,44 @@
+.jumbotron {
+  padding-top: 6rem;
+  min-height: 100vh;
+  background-image: url(assets/3.jpg);
+}
+
+.lead {
+  font-size: 30px;
+}
+
+.image_icon {
+  width: 200px;
+  height: 200px;
+  padding: 30px;
+}
+
+.carousel .carousel-item {
+  height: 500px;
+}
+
+.carousel-item img {
+  position: absolute;
+  object-fit: cover;
+  top: 0;
+  left: 0;
+  min-height: 500px;
+}
+
+.galeri_photo {
+  width: 505;
+}
+
+.galeri_item {
+  height: 600px;
+}
+
+.waicon {
+  width: 30px;
+  height: 30px;
+}
+
+footer {
+  color: antiquewhite;
+}
